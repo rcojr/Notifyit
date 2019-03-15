@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notifyit</string>
+    <string name="strAbout">About</string>
+    <string name="strHelp">Help</string>
+    <string name="strScanQrCode">Scan QR Code</string>
+    <string name="strSendNotifications">Send notifications to your PC</string>
+    <string name="strNotificationTesting">A test notification was sent.</string>
+    <string name="strPermissionCameraDenied">It is necessary to allow the camera to scan the QR Code.</string>
+    <string name="strQrCodeError">This QR Code does not belong to Notifyit</string>
+    <string name="strHabilitarNotificacoes">You\'ll need to enable notification access on the next screen for using the application.</string>
+    <string name="strConectado">Connected to</string>
+    <string name="strNotificacaoTeste">Test Notification</string>
+    <string name="strNoDevice">There is no PC connected.</string>
+    <string name="strConectadoPC">Connected to the PC</string>
+    <string name="strPleaseScanQrCode">Please scan the QR Code on your PC.</string>
+    <string name="strSobreDialog">Notifyit\nVersion: 1.0\nJR APPS</string>
+    <string name="strWelcome">Welcome to Notifyit</string>
+    <string name="strInstalled">I have installed Notifyit Receiver</string>
+    <string name="strHowToUse">To use Notifyit, you need to install Notifyit Receiver on your PC.\nYou can download it for free at\nwww.jrapps.16mb.com/notifyit</string>
+
+</resources>

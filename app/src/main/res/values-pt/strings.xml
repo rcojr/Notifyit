@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notifyit</string>
+    <string name="strAbout">Sobre</string>
+    <string name="strHelp">Ajuda</string>
+    <string name="strScanQrCode">Escanear QR Code</string>
+    <string name="strSendNotifications">Enviar notificações para seu PC</string>
+    <string name="strNotificationTesting">Uma notificação de teste foi enviada.</string>
+    <string name="strPermissionCameraDenied">É necessário permitir a câmera para escanear o QR Code.</string>
+    <string name="strQrCodeError">Este QR Code não pertence ao Notifyit</string>
+    <string name="strHabilitarNotificacoes">É necessário habilitar o acesso a notificações na próxima tela para o uso do aplicativo.</string>
+    <string name="strConectado">Conectado ao</string>
+    <string name="strNotificacaoTeste">Notificação de Teste</string>
+    <string name="strNoDevice">Não há nenhum PC conectado.</string>
+    <string name="strConectadoPC">Conectado ao PC</string>
+    <string name="strPleaseScanQrCode">Por favor escaneie o QR Code no seu PC.</string>
+    <string name="strSobreDialog">Notifyit\nVersão: 1.0\nJR APPS</string>
+    <string name="strWelcome">Bem Vindo ao Notifyit</string>
+    <string name="strInstalled">Já instalei o Notifyit Receiver</string>
+    <string name="strHowToUse">Para usar o Notifyit, você precisa instalar o Notifyit Receiver no seu PC.\nVocê pode baixar gratuitamente em\nwww.jrapps.16mb.com/notifyit</string>
+
+</resources>
